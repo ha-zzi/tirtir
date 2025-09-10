@@ -4,7 +4,7 @@
   box-sizing: border-box;
   max-width: 1200px;
   font-family: "HCo Gotham", "Noto Sans KR", sans-serif;
-  /* 폰트 속성 수정해야될 것 같음 */
+  /* 폰트 다운로드 할 수 없음 */
 }
 
 /*************************/
@@ -734,5 +734,6 @@ footer {
 /*************************/
 /* 여기까지 footer style */
 /*************************/
+
 
 
