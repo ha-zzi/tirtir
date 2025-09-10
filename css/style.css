@@ -152,6 +152,9 @@ button {
 .section3 {
   width: 100vw;
   border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .section4 {
@@ -725,3 +728,4 @@ footer {
 /*************************/
 /* 여기까지 footer style */
 /*************************/
+
