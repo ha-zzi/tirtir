@@ -97,6 +97,12 @@ button {
 /***********************/
 /* 여기부터 main style */
 /***********************/
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .section1 {
   width: 100%;
 }
@@ -728,4 +734,5 @@ footer {
 /*************************/
 /* 여기까지 footer style */
 /*************************/
+
 
